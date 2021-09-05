@@ -116,7 +116,7 @@ fn main() {
                 let texts = [
                     "Starting Windows 1.43 ...",
                     "Please wait till we load your desktop",
-                    "In the meantime, you can tell how painful your day so far",
+                    "In the meantime, you can tell how painful your day was so far",
                     "Oh! Oh! Oh! I got it, try smashing Enter 50 times.",
                 ];
 
